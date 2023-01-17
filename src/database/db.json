@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Rohit",
+      "username": "GOD",
+      "email": "Rohit@gmail.com",
+      "phone": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "samar",
+      "username": "samspoil",
+      "email": "samargound2007@gmail.com",
+      "phone": "8591696614",
+      "id": 3
+    },
+    {
+      "name": "virat",
+      "username": "Kohli",
+      "email": "KING@gmail.com",
+      "phone": "9820783527",
+      "id": 4
+    },
+    {
+      "name": "samar",
+      "username": "samspoil",
+      "email": "painter@gmail.com",
+      "phone": "8558948948",
+      "id": 5
+    }
+  ]
+}
