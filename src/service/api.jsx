@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 
-const API_URL = "http://127.0.0.1:3003/users";
+const API_URL = "https://papaya-marzipan-f944fd.netlify.app/users";
 
 export const addUser = async (Data) => {
   try {
